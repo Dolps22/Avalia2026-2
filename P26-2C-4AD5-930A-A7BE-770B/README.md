@@ -4,7 +4,7 @@
 - **Estudante:** Davi de Oliveira Lopes
 - **Turma:** 2C
 - **Chave Única:** `P26-2C-4AD5-930A-A7BE-770B`
-- **URL_CLOUDFLARE:** `https://p26-2c-4ad5-930a-a7be-770b.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
+- **URL_CLOUDFLARE:** `https://avalia2026-2-1uj.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
 
 ---
 
